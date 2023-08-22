@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Francois One', sans-serif;
+}
+
+body{
+    padding: 0;
+    box-sizing: border-box;
+}
+.sidebar{
+    height: 100vh;
+    
+}
+.dropzone{
+    margin-top: 50px;
+
+}
+
+.footer-banner{
+    background: -webkit-linear-gradient(left,rgb(75, 30, 4),rgb(30, 8, 80),rgb(82, 5, 62),rgb(70, 6, 33));
+}
