@@ -20,3 +20,13 @@ body{
 .footer-banner{
     background: -webkit-linear-gradient(left,rgb(75, 30, 4),rgb(30, 8, 80),rgb(82, 5, 62),rgb(70, 6, 33));
 }
+.rating-content{
+    background: lightblue;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.rating-content .rating{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px 4px  gray;
+}
